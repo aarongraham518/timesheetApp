@@ -9,3 +9,4 @@
     1. "npm install" for dependencies
     2. "npm run start" to run project
     3. simulator/phone can be in landscape (better view) or portrait
+    4. Let me know if you have any questions
